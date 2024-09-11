@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dekoder-py&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔗 Links
-[First Repo](Dekoder-py.github.io/first-repo)
+[First Repo](https://dekoder-py.github.io/first-repo/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
