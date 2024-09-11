@@ -1,4 +1,5 @@
-# 👋🏻 Hi! I'm Dekoder-py. Welcome to my website.
+# 👋🏻 Hi! I'm Dekoder-py. 
+Welcome to my website.
 
 ## 💫 About Me:
 👨🏻‍💻 I’m currently learning python!<br>💬 Ask me about anything tech!<br>⚡ Fun fact: I just started using Git!
