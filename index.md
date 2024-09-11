@@ -1,6 +1,8 @@
 # 👋🏻 Hi! I'm Dekoder-py. 
 Welcome to my website.
 
+![Profile-Pic](https://github.com/Dekoder-py/Dekoder-py.github.io/blob/dd2888c64b5e903da6d6a5b8993a86e046208f47/image1.png?raw=true)
+
 ## 💫 About Me:
 👨🏻‍💻 I’m currently learning python!<br>💬 Ask me about anything tech!<br>⚡ Fun fact: I just started using Git!
 
