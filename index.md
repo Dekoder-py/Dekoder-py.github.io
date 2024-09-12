@@ -10,7 +10,7 @@ Welcome to my website.
 [First Repo](https://dekoder-py.github.io/first-repo/)
 
 ## My Repos
-[basic-python-calculatr](https://github.com/Dekoder-py/basic-python-calculator.git)<br>
+[basic-python-calculator](https://github.com/Dekoder-py/basic-python-calculator.git)<br>
 [video-game-collection](https://github.com/Dekoder-py/video-game-collection.git)
 
 # 💻 Tech Stack:
