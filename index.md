@@ -9,6 +9,10 @@ Welcome to my website.
 ## 🔗 My Other Sites
 [First Repo](https://dekoder-py.github.io/first-repo/)
 
+## My Repos
+[basic-python-calculatr](https://github.com/Dekoder-py/basic-python-calculator.git)<br>
+[video-game-collection](https://github.com/Dekoder-py/video-game-collection.git)
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
