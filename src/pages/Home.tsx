@@ -120,6 +120,45 @@ export default function Home() {
 
           <div id="pagering">{createElement("pagering-link", { theme: "dark" })}</div>
 
+          <div className="flex mt-2" id="parrotring">
+            <a href="https://ultrafastparrot.net/prev/kyle">
+              <svg
+                className="arrow-icon"
+                width="42"
+                height="42"
+                viewBox="0 0 24 24"
+                fill="#cdd6f4"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M5 12H19M5 12L11 6M5 12L11 18"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                ></path>
+              </svg>
+              </a>
+            <a href="https://ultrafastparrot.net/"><img className="w-12" src="https://ultrafastparrot.net/ultrafastparrot.gif" alt="ultrafastparrot"/></a>
+            <a href="https://ultrafastparrot.net/next/kyle">
+              <svg
+                className="arrow-icon"
+                width="42"
+                height="42"
+                viewBox="0 0 24 24"
+                fill="#cdd6f4"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M5 12H19M19 12L13 6M19 12L13 18"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                ></path>
+              </svg>
+            </a>
+          </div>
+
           <div id="catp webring stuuf" className="flex mt-2">
             <a href="https://ctp-webr.ing/codingcorner/previous">
               <svg
