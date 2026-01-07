@@ -98,8 +98,18 @@ export default function Home() {
           >
             Hack Club
           </a>
-          ! <br />I prefer working in the CLI to any GUI app (which is why I'm
-          not the best at UI things XD) <br />
+          ! <br />
+          I'm also a{" "}
+          <a
+            href="https://us.review.hackclub.com"
+            target="_blank"
+            className="underline hover:text-macchiato-blue"
+          >
+            Shipwright
+          </a>{" "}
+          for Hack Club's universal You Ship We Ship's! <br />
+          I prefer working in the CLI to any GUI app (which is why I'm not the
+          best at UI things XD) <br />
           I've also written my own neovim, ghostty, and tmux configs, which are
           the main tools I use to program. You can find them on my{" "}
           <a
@@ -118,7 +128,9 @@ export default function Home() {
         >
           <h2 className="text-2xl text-macchiato-lavender">The Webrings</h2>
 
-          <div id="pagering">{createElement("pagering-link", { theme: "dark" })}</div>
+          <div id="pagering">
+            {createElement("pagering-link", { theme: "dark" })}
+          </div>
 
           <div className="flex mt-2" id="parrotring">
             <a href="https://ultrafastparrot.net/prev/kyle">
@@ -138,8 +150,14 @@ export default function Home() {
                   strokeLinejoin="round"
                 ></path>
               </svg>
-              </a>
-            <a href="https://ultrafastparrot.net/"><img className="w-12" src="https://ultrafastparrot.net/ultrafastparrot.gif" alt="ultrafastparrot"/></a>
+            </a>
+            <a href="https://ultrafastparrot.net/">
+              <img
+                className="w-12"
+                src="https://ultrafastparrot.net/ultrafastparrot.gif"
+                alt="ultrafastparrot"
+              />
+            </a>
             <a href="https://ultrafastparrot.net/next/kyle">
               <svg
                 className="arrow-icon"
