@@ -23,8 +23,8 @@ export default function MySetup() {
       desc: "I'm not sure what model.",
     },
     {
-      itemName: "iPhone 13 Mini",
-      url: "https://support.apple.com/en-us/111873",
+      itemName: "iPhone 16e",
+      url: "https://www.apple.com/iphone-16e/specs/",
       desc: "I don't have a phone case.",
     },
     {
