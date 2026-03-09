@@ -345,6 +345,18 @@ export default function Home() {
         />
 
         <Button88x31
+          url="https://yaoi.tech/"
+          imgSrc="https://parakeet.yaoi.tech/button%20(3).gif"
+          alt="Alex"
+        />
+
+        <Button88x31
+          url="https://gotlobotomy.tech/"
+          imgSrc="https://ingobeans.github.io/pondering-horses/images/irisbutton.png"
+          alt="Iris"
+        />
+
+        <Button88x31
           url="https://errorcodezero.dev/"
           imgSrc="https://errorcodezero.dev/button.png"
           alt="ErrorCode0"
